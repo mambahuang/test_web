@@ -1,0 +1,43 @@
+html {
+    font-family: placeholder;
+}
+
+h1 {
+    font-size: 40px;
+    text-align: center;
+}
+
+.container {
+    overflow: auto; /* Clear the float */
+}
+
+.image_buzz {
+    float: left;
+    margin-right: 60px; /* Adjust the spacing between image and text */
+}
+
+.image_bmo {
+    float: left;
+    margin-right: 60px; /* Adjust the spacing between image and text */
+    width: 200px; /* Adjust the width of the image */
+    height: auto; /* Maintain aspect ratio */
+}
+.image_ok {
+    float: left;
+    margin-right: 60px; /* Adjust the spacing between image and text */
+    width: 200px; /* Adjust the width of the image */
+    height: auto; /* Maintain aspect ratio */
+}
+
+.image_chick {
+    float: left;
+    margin-right: 60px; /* Adjust the spacing between image and text */
+    width: 200px; /* Adjust the width of the image */
+    height: auto; /* Maintain aspect ratio */
+}
+
+.text {
+    font-size: 20px;
+
+}
+  
